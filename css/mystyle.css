@@ -1,0 +1,17 @@
+.headline {
+    font-family: 'Open Sans', sans-serif;
+    font-size:25px;
+    color:dimgray;
+    font-weight:300;
+}
+
+.bio-description {
+    font-family: 'Open Sans', sans-serif;
+    font-size:15px;
+    color:dimgray;
+}
+
+.bio {
+    margin: 0 auto;
+    width:80%;
+}
