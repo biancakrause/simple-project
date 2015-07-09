@@ -5,6 +5,25 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.nav {
+    margin: 0 auto;
+    width:80%; 
+}
+
+.icon {
+    background-color: azure;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+}
+
+.name {
+    float: left;
+    line-height: 50px;
+    color: white;
+}
     
 .headline {
     font-family: 'Open Sans', sans-serif;
