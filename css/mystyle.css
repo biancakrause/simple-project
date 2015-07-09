@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .headline {
     font-family: 'Open Sans', sans-serif;
     font-size:25px;
@@ -14,4 +15,17 @@
 .bio {
     margin: 0 auto;
     width:80%;
+=======
+.header {
+    background-image: url(../img/CLIFFORD+copy.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+    
+>>>>>>> origin/master
 }
